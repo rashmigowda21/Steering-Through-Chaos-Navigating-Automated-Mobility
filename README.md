@@ -51,4 +51,4 @@ python simulation.py --host localhost --port 2000
    - Sensor data is processed to detect obstacles, potholes, and lane markings
    - The controller computes appropriate steering, throttle, and brake values
    - Visualization windows show the camera view with detections
-5. The simulation continues until interrupted by the user (Ctrl+C)<img width="915" height="1090" alt="image" src="https://github.com/user-attachments/assets/ede54779-0fe0-45e8-8f70-ab127356f643" />
+5. The simulation continues until interrupted by the user (Ctrl+C)
