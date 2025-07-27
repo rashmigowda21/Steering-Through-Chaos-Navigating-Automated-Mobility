@@ -10,7 +10,6 @@ egg_path = r"C:\path to CARLA .egg file\CARLA_0.9.13\WindowsNoEditor\PythonAPI\c
 if egg_path not in sys.path:
     sys.path.append(egg_path)
 
-
 client = carla.Client('localhost', 2000)
 client.set_timeout(20.0)
 world = client.get_world()
